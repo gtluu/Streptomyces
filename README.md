@@ -1,1 +1,1 @@
-# Streptomyces
+# BIOL 638 Project
